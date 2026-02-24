@@ -23,16 +23,15 @@ Each task is stored as a dictionary:
 
 {
 
-    "ID": int,
-    
-    "Title": str,
-    
-    "Done": bool,
-    
-    "Priority": str,
-    
-    
-    "Tags": list
+      "ID": int,
+      
+      "Title": str,
+      
+      "Done": bool,
+      
+      "Priority": str,
+      
+      "Tags": list
 }
 
 Purpose:
