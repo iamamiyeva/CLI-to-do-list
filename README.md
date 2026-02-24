@@ -20,13 +20,21 @@ In Progress:
 Task Structure:
 
 Each task is stored as a dictionary:
+
 {
+
     "ID": int,
+    
     "Title": str,
+    
     "Done": bool,
+    
     "Priority": str,
+    
+    
     "Tags": list
 }
 
 Purpose:
+
   This project is part of my learning process while improving my Python programming skills.
